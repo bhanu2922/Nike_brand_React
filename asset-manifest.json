@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Nike_brand_React/static/css/main.76871aef.css",
+    "main.js": "/Nike_brand_React/static/js/main.f3283e97.js",
+    "static/media/shoe_image.png": "/Nike_brand_React/static/media/shoe_image.fc09364163c51452503d.png",
+    "index.html": "/Nike_brand_React/index.html",
+    "main.76871aef.css.map": "/Nike_brand_React/static/css/main.76871aef.css.map",
+    "main.f3283e97.js.map": "/Nike_brand_React/static/js/main.f3283e97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76871aef.css",
+    "static/js/main.f3283e97.js"
+  ]
+}
