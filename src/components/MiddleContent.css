@@ -1,0 +1,38 @@
+.middle-content {
+    display: flex;
+    margin-top: 2rem;
+    padding-right: 10rem;
+    padding-left: 10rem;
+    justify-content: space-around;
+}
+.text-main{
+    font-size: 6.5rem;
+    font-weight: bolder;
+}
+.text-main-1 {
+    margin-top: 2rem;
+    text-wrap: wrap;
+    font-weight: bolder;
+}
+.btn-2 {
+    margin-top: 2rem;
+    background-color: #D01C28;
+    color: white;
+    font-weight: bolder;
+    height: 3rem;
+    width: 6rem;
+    border-radius: 5px;
+}
+.btn-3{
+    margin-top: 2rem;
+    color: grey;
+    font-weight: bolder;
+    height: 3rem;
+    width: 6rem;
+    border-radius: 5px;
+    margin-left: 1rem;
+}
+.btn-2:hover , .btn-3:hover{
+    opacity: 0.8;
+    transform:scale(1.1);
+}
